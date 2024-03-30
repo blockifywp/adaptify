@@ -1,0 +1,33 @@
+{
+  "name": "blockify/agencify",
+  "type": "wordpress-theme",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Blockify",
+      "homepage": "https://blockifywp.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "archive": {
+    "exclude": [
+      ".git",
+      ".github",
+      ".gitignore",
+      ".gitattributes",
+      ".editorconfig",
+      "composer.json",
+      "composer.lock",
+      "package.json",
+      "package-lock.json"
+    ]
+  },
+  "scripts": {
+    "zip": "composer archive --format=zip --file=../agencify",
+    "pot": "wp i18n make-pot ./ languages/agencify.pot --exclude='assets'"
+  }
+}
