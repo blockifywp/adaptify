@@ -1,0 +1,12 @@
+node_modules/
+wp/
+wp-content/
+vendor/
+wp-content/
+*.zip
+*.lock
+*cache
+package-lock.json
+composer.lock
+bun.lockb
+.DS_Store
