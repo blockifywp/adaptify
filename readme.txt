@@ -1,8 +1,8 @@
 === Agencify ===
 Contributors: blockify
 Requires at least: 6.4
-Tested up to: 6.4
-Stable tag: 0.1.0
+Tested up to: 6.5
+Stable tag: 0.0.1
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,10 +35,20 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
 
 == Resources ==
 
-* Google Logo: 
+All images and videos used in the theme are licensed under the Creative Commons Zero (CC0) license.
+
+* Achievement (CC0): https://pxhere.com/en/photo/1451905
+* Brainstorming (CC0): https://pxhere.com/en/photo/1446495
+* Business (CC0): https://pxhere.com/en/photo/1448699
+* Interfaces Images (CC0), https://github.com/cjdowner/interfaces
+* Google Fonts (OFL): https://fonts.google.com
+* Background (CC0): https://www.videvo.net/video/abstract-background-graphics/3453
+* Doodle Icons (CC0): https://khushmeen.com/icons.html
+
+Custom SVGs and mockups created by Blockify are licensed under the GPL-2.0-or-later license.
 
 == Changelog ==
 
-= 0.0.1 - 1 April 2024 =
+= 0.0.1 - 19 April 2024 =
 
 * Add: Initial release
