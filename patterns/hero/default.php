@@ -43,7 +43,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-<!-- wp:group {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
+<!-- wp:group {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"blockGap":{"top":"var:preset|spacing|xxs","left":"var:preset|spacing|sm"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
 <div class="wp-block-group" style="font-style:normal;font-weight:500"><!-- wp:paragraph -->
 <p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-500-color">✦</mark> Enhanced Online Visibility</p>
 <!-- /wp:paragraph -->

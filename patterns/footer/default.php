@@ -12,9 +12,9 @@
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"0"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":{"left":"4px"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"32"} -->
-<p class="has-32-font-size">✦</p>
-<!-- /wp:paragraph -->
+<div class="wp-block-group"><!-- wp:image {"width":"28px","height":"28px","scale":"cover","style":{"svgString":"\u003csvg xmlns=\u0022http://www.w3.org/2000/svg\u0022 width=\u002216\u0022 height=\u002216\u0022\n\t viewBox=\u00220 0 16 16\u0022 fill=\u0022currentcolor\u0022\u003e\n\t\u003cpath\n\t\td=\u0022M8 1C8.90483 3.07104 9.35725 4.10657 10.0609 4.9509C10.3597 5.30951 10.6905 5.64027 11.0491 5.93912C11.8934 6.64275 12.929 7.09517 15 8C12.929 8.90483 11.8934 9.35725 11.0491 10.0609C10.6905 10.3597 10.3597 10.6905 10.0609 11.0491C9.35725 11.8934 8.90483 12.929 8 15C7.09517 12.929 6.64275 11.8934 5.93912 11.0491C5.64027 10.6905 5.30951 10.3597 4.9509 10.0609C4.10657 9.35725 3.07104 8.90483 1 8C3.07104 7.09517 4.10657 6.64275 4.9509 5.93912C5.30951 5.64027 5.64027 5.30951 5.93912 4.9509C6.64275 4.10657 7.09517 3.07104 8 1Z\u0022/\u003e\n\u003c/svg\u003e","maskSvg":true,"elements":{"link":{"color":{"text":"var:preset|color|neutral-950"}}}},"className":"is-style-svg","textColor":"neutral-950"} -->
+<figure class="wp-block-image is-resized is-style-svg has-neutral-950-color has-text-color has-link-color"><img src="#" alt="" style="object-fit:cover;width:28px;height:28px"/></figure>
+<!-- /wp:image -->
 <!-- wp:site-title {"level":0,"style":{"typography":{"fontSize":"28px"}},"className":"is-style-heading"} /--></div>
 <!-- /wp:group -->
 <!-- wp:paragraph {"className":"is-style-default"} -->

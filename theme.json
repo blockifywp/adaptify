@@ -559,7 +559,7 @@
         },
         "color": {
           "text": "var(--wp--preset--color--neutral-0)",
-          "background": "var(--wp--preset--color--neutral-950)"
+          "background": "var(--wp--preset--color--primary-400)"
         },
         "spacing": {
           "padding": {
@@ -571,8 +571,7 @@
         },
         "typography": {
           "fontSize": "16px",
-          "fontWeight": "var(--wp--custom--font-weight--semi-bold)",
-          "lineHeight": "20px"
+          "fontWeight": "var(--wp--custom--font-weight--semi-bold)"
         }
       },
       "heading": {
