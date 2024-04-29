@@ -558,7 +558,7 @@
           "radius": "99px"
         },
         "color": {
-          "text": "var(--wp--preset--color--neutral-0)",
+          "text": "var(--wp--preset--color--neutral-950)",
           "background": "var(--wp--preset--color--primary-400)"
         },
         "spacing": {
