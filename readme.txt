@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.4
 Tested up to: 6.5
-Stable tag: 0.0.3
+Stable tag: 0.0.4
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -48,6 +48,10 @@ All images and videos used in the theme are licensed under the Creative Commons 
 Custom SVGs and mockups created by Blockify are licensed under the GPL-2.0-or-later license.
 
 == Changelog ==
+
+= 0.0.4 - 30 April 2024 =
+
+* Fix: Pattern a11y improvements
 
 = 0.0.3 - 29 April 2024 =
 
