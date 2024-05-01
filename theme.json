@@ -178,7 +178,7 @@
         "fontSize": "var(--wp--preset--font-size--20)"
       },
       "ghost": {
-        "color": "var(--wp--preset--color--neutral-600)"
+        "color": "inherit"
       },
       "input": {
         "background": "var(--wp--preset--color--neutral-100)",
@@ -216,12 +216,6 @@
         "boxShadow": "none",
         "borderRadius": "99px",
         "url": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' viewBox='0 0 122 122'%3E%3Cpath d='M61 1C27.9 1 1 27.9 1 61s26.9 60 60 60 60-26.9 60-60S94.1 1 61 1zm13.7 60.6-10.2 5.3-10.7 5.6c-1.3.7-2.9-.3-2.9-1.8V49c0-1.5 1.6-2.5 2.9-1.8l10.7 5.6 10.2 5.3c1.4.7 1.4 2.8 0 3.5z'/%3E%3C/svg%3E\")"
-      },
-      "commentsForm": {
-        "submit": {
-          "background": "var(--wp--preset--gradient--primary-background)",
-          "color": "var(--wp--preset--color--neutral-900)"
-        }
       },
       "navigation": {
         "padding": "var(--wp--preset--spacing--sm)",
@@ -479,6 +473,11 @@
           "gradient": "linear-gradient(135deg,var(--wp--preset--color--neutral-100) 0%,var(--wp--preset--color--neutral-200) 100%)",
           "name": "Surface/Border",
           "slug": "surface-border"
+        },
+        {
+          "gradient": "repeating-conic-gradient(var(--wp--preset--color--neutral-200) 0% 25%, transparent 0% 50%) 50% / 16px 16px",
+          "name": "Checkerboard",
+          "slug": "checkerboard"
         }
       ]
     },
