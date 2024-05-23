@@ -1,5 +1,5 @@
 {
-  "name": "blockify/agencify",
+  "name": "blockify/adaptify",
   "type": "wordpress-theme",
   "license": "GPL-2.0-or-later",
   "authors": [
@@ -27,7 +27,7 @@
     ]
   },
   "scripts": {
-    "zip": "composer archive --format=zip --file=../agencify",
-    "pot": "wp i18n make-pot ./ languages/agencify.pot --exclude='assets'"
+    "zip": "composer archive --format=zip --file=../adaptify",
+    "pot": "wp i18n make-pot ./ languages/adaptify.pot --exclude='assets'"
   }
 }
